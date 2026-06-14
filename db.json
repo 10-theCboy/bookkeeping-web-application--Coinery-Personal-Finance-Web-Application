@@ -1,0 +1,290 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "title": "Salary",
+      "amount": 5000,
+      "type": "income",
+      "category": "Work",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "2",
+      "title": "Food",
+      "amount": 120,
+      "type": "expense",
+      "category": "Daily",
+      "date": "2026-06-02"
+    },
+    {
+      "title": "Monthly Salary",
+      "amount": 2500,
+      "type": "income",
+      "category": "salary",
+      "date": "2026-06-13",
+      "note": "",
+      "userId": "S4ZtoAWQBwQ",
+      "id": "p0LIZ0mlkqg"
+    },
+    {
+      "title": "Grocery Shopping",
+      "amount": 85,
+      "type": "expense",
+      "category": "food",
+      "date": "2026-06-13",
+      "note": "",
+      "userId": "S4ZtoAWQBwQ",
+      "id": "_pFXKB6buBw"
+    },
+    {
+      "title": "Netflix",
+      "amount": 15,
+      "type": "expense",
+      "category": "entertainment",
+      "date": "2026-06-13",
+      "note": "",
+      "userId": "S4ZtoAWQBwQ",
+      "id": "WLEe5n207F0"
+    },
+    {
+      "title": "Transport Card",
+      "amount": 45,
+      "type": "expense",
+      "category": "transport",
+      "date": "2026-06-13",
+      "note": "",
+      "userId": "S4ZtoAWQBwQ",
+      "id": "WbCEfYFA0O4"
+    },
+    {
+      "title": "SALARY",
+      "amount": 40000,
+      "type": "income",
+      "category": "freelance",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "pG1gPblQ3ds",
+      "id": "mhNS6sfLeGE"
+    },
+    {
+      "title": "ZAKARIA",
+      "amount": 450000,
+      "type": "expense",
+      "category": "entertainment",
+      "date": "2026-06-14",
+      "note": "LOAN",
+      "userId": "pG1gPblQ3ds",
+      "id": "Y3wS3Gf2BUc"
+    },
+    {
+      "title": "JCU",
+      "amount": 2,
+      "type": "expense",
+      "category": "education",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "pG1gPblQ3ds",
+      "id": "Ev6hSE26ROM"
+    },
+    {
+      "title": "GIFT",
+      "amount": 10000000,
+      "type": "income",
+      "category": "gift",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "MISeByY-8is",
+      "id": "pbIFoY9NIKM"
+    },
+    {
+      "title": "NETFLIX",
+      "amount": 150,
+      "type": "expense",
+      "category": "entertainment",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "MISeByY-8is",
+      "id": "GYVSgB8cAGk"
+    },
+    {
+      "title": "Grocery ",
+      "amount": 1000,
+      "type": "expense",
+      "category": "food",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "MISeByY-8is",
+      "id": "rdu2JwFf_XA"
+    },
+    {
+      "title": "Clothing",
+      "amount": 10000,
+      "type": "expense",
+      "category": "shopping",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "MISeByY-8is",
+      "id": "bOhoiEJtByE"
+    },
+    {
+      "title": "World cup final tickets",
+      "amount": 300000,
+      "type": "expense",
+      "category": "entertainment",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "MISeByY-8is",
+      "id": "2tXaKoWKDMI"
+    },
+    {
+      "title": "Internet",
+      "amount": 5000,
+      "type": "expense",
+      "category": "utilities",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "MISeByY-8is",
+      "id": "t17OtBhhAM8"
+    },
+    {
+      "title": "Passive income",
+      "amount": 1000000000,
+      "type": "income",
+      "category": "freelance",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "MISeByY-8is",
+      "id": "YQWWdrwwEXU"
+    },
+    {
+      "title": "kids",
+      "amount": 50000,
+      "type": "expense",
+      "category": "education",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "MISeByY-8is",
+      "id": "xGSI1mVIQn4"
+    },
+    {
+      "title": "Collaborations with CR7",
+      "amount": 1000000,
+      "type": "income",
+      "category": "investment",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "MISeByY-8is",
+      "id": "kFJgd2EfbJE"
+    },
+    {
+      "title": "GYM",
+      "amount": 100000,
+      "type": "expense",
+      "category": "health",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "MISeByY-8is",
+      "id": "RDm5XT2-kUE"
+    },
+    {
+      "title": "Personal Doctor",
+      "amount": 1000,
+      "type": "expense",
+      "category": "health",
+      "date": "2026-06-14",
+      "note": "",
+      "userId": "MISeByY-8is",
+      "id": "Pdc5g5t6rU0"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123456"
+    },
+    {
+      "username": "test",
+      "password": "test123",
+      "id": "B8xXCHTRQ_A"
+    },
+    {
+      "username": "SALAH",
+      "password": "salah123@S",
+      "id": "S4ZtoAWQBwQ"
+    },
+    {
+      "username": "RAOUIA",
+      "password": "ux%$H9JFCJ..7T",
+      "id": "XZjEHvpTz-c"
+    },
+    {
+      "username": "TheCboy",
+      "password": "test123@@@",
+      "id": "kejJRwFNKh4"
+    },
+    {
+      "username": "TAHA",
+      "password": "test/1234@",
+      "id": "pG1gPblQ3ds"
+    },
+    {
+      "username": "SALAH",
+      "password": "test123@@20",
+      "id": "MISeByY-8is"
+    }
+  ],
+  "goals": [
+    {
+      "id": "default",
+      "userId": "S4ZtoAWQBwQ",
+      "monthlyBudget": 2000,
+      "categoryLimits": {
+        "food": 500,
+        "transport": 300,
+        "entertainment": 200,
+        "health": 150,
+        "shopping": 300,
+        "utilities": 200,
+        "education": 100,
+        "other": 150
+      },
+      "reminderEnabled": true,
+      "reminderDay": 1
+    },
+    {
+      "monthlyBudget": 999953,
+      "categoryLimits": {
+        "food": 500,
+        "transport": 300,
+        "entertainment": 200,
+        "health": 150,
+        "shopping": 300,
+        "utilities": 200,
+        "education": 100,
+        "other": 150
+      },
+      "reminderEnabled": false,
+      "reminderDay": 1,
+      "userId": "MISeByY-8is",
+      "id": "rgiTQ6eMTXI"
+    },
+    {
+      "monthlyBudget": 100000000000,
+      "categoryLimits": {
+        "food": 500,
+        "transport": 300,
+        "entertainment": 200,
+        "health": 150,
+        "shopping": 300,
+        "utilities": 200,
+        "education": 100,
+        "other": 150
+      },
+      "reminderEnabled": false,
+      "reminderDay": 1,
+      "userId": "MISeByY-8is",
+      "id": "N_WkENb6cYw"
+    }
+  ]
+}
